@@ -3,7 +3,11 @@
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
+<<<<<<< HEAD
       check out the 哦哦哦哦哦
+=======
+      check out the 1111
+>>>>>>> 5c215cf20de5cb3babb6176fd1edb75281be51ad
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins嘻嘻 v1.1</h3>
