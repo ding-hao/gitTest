@@ -31,6 +31,7 @@
 </template>
 
 <script>
+// 删除v1.1远程分支后修改
 export default {
   name: 'HelloWorld',
   props: {
