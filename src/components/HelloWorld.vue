@@ -31,6 +31,7 @@
 </template>
 
 <script>
+// 删除本地分支v1.0后提交
 export default {
   name: 'HelloWorld',
   props: {
